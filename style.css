@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+.header {
+    overflow: hidden;
+    padding: 20px 10px;
+  }
+  
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+img{
+    position: absolute;
+width: 225px;
+height: 65px;
+left: 300px;
+top: 38px;
+}
+.header-right a {
+    font-size: 25px;
+}
+ .t1{
+    position: absolute;
+width: 71px;
+height: 30px;
+left: 937px;
+top: 53px;
+ } 
+.t2{
+    position: absolute;
+height: 30px;
+left: 1049px;
+top: 53px;
+
+}
+.t3{
+    position: absolute;
+    height: 30px;
+    left: 1201px;
+    top: 53px;
+}
+.t4{
+    position: absolute;
+    height: 30px;
+    left: 1338px;
+    top: 53px;
+}
+.t5{
+    position: absolute;
+    height: 20px;
+    left: 1514px;
+    top: 47px;
+    background: #05427B;
+    border-radius: 9px;
+} 
+
+.sidebar-one{
+    height: 768px;
+    background-color: #ffcccc;
+    font-size: xx-large;
+    position: absolute;
+width: 432px;
+height: 768px;
+left: 300px;
+top: 141px;
+    float: left;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+.section-one{
+    height: 403px;
+    background: #bebebe;
+    margin-bottom: 11px;
+    font-size: xx-large;
+    position: absolute;
+    left: 744px;
+    top: 141px;
+    width: 876px;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+.section-two{
+    height: 353px;
+    background-color: #bebebe;
+    margin-right: -12px;
+    font-size: xx-large;
+    position: absolute;
+    width: 543px;
+left: 744px;
+top: 556px;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+.section-three{
+    height: 353px;
+    background-color: #bebebe;
+    font-size: xx-large;
+    width: 321px;
+    position: absolute;
+left: 1299px;
+top: 556px;
+align-items: center;
+justify-content: center;
+display: flex;
+}
+.end{
+    background-color: #735a43;
+    margin-top: 10px;
+    position: absolute;
+   width: 1900px;
+   height: 102px;
+   left: 0px;
+   top: 1021px;
+}
+.end p{
+    
+    color: white;
+    font-weight: bold;
+    padding: 30px;
+    margin: 0 272px 0 291px;
+}
+.end i{
+    color: white;
+}
+.end a{
+    float: right;
+    padding: 7px;
+}
